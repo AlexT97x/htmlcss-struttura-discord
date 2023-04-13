@@ -26,3 +26,13 @@
 .login{
     font-size: 30px;
 }
+
+.jumbotron{
+    display: flex;
+    background-color: blue;
+    width: 1500px;
+}
+
+.contenitore{
+    
+}
