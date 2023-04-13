@@ -3,3 +3,26 @@
     margin: 0;
     box-sizing: border-box;
 }
+
+.header{
+    display: flex;
+    flex-direction: row;
+    background-color: orange;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    justify-content: space-between;
+}
+
+.logo{
+    font-size: 30px;
+}
+
+.link{
+    font-size: 30px;
+}
+
+.login{
+    font-size: 30px;
+}
